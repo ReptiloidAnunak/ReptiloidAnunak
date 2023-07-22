@@ -29,3 +29,16 @@
 </div>
 
 ###
+
+
+<h2 align="center">Programming languages</h2>
+
+###
+
+<h4 align="left">:book: Books I'm reading:</h4>
+
+###
+
+1. Harrison M. Illustrated Guide to Python 3: A Complete Walkthrough of Beginning Python with Unique Illustrations Showing how Python Really Works. Now covering Python 3.6
+2. Mitchell R. Web Scraping with Python: Collecting More Data from the Modern Web
+3. Melé A. Django 2 by Example
