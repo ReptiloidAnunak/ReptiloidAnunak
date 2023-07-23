@@ -31,8 +31,6 @@
 ###
 
 
-<h2 align="center">Programming languages</h2>
-
 ###
 
 <h4 align="left">:book: Books I'm reading:</h4>
