@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />
+  
 </div>
 
 ###
