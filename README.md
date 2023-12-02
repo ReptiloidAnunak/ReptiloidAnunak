@@ -40,11 +40,13 @@
 
 ###
 <div align="center">
+  
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="40" alt="bash logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  
 <div align="center">
 ###
 
-###
 
 <h4 align="left">:book: Books I'm reading:</h4>
 
