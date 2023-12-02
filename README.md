@@ -48,7 +48,7 @@
 ###
 
 
-<h4 align="left">:book: Books I'm reading:</h4>
+<h4 align="left"> Books I'm reading:</h4>
 
 ###
 
