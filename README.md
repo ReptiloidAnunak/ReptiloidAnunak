@@ -45,13 +45,17 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   
 <div align="center">
-###
+
 <div align="left">
   <h4 align="left"> Books I'm reading:</h4>
   <p1>
     1. Harrison M. Illustrated Guide to Python 3: A Complete Walkthrough of Beginning Python with Unique Illustrations Showing how Python Really Works. Now covering Python 3.6
+    <br>
     2. Mitchell R. Web Scraping with Python: Collecting More Data from the Modern Web
+    <br>
     3. Melé A. Django 2 by Example
+    <br>
+    4. Bader D. Python Tricks: The Book
   </p1>
 </div>
   
