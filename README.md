@@ -46,10 +46,9 @@
   
 <div align="center">
 ###
-
-
-<h4 align="left"> Books I'm reading:</h4>
-
+<div align="center">
+  <h4 align="left"> Books I'm reading:</h4>
+<div align="center">
 ###
 
 1. Harrison M. Illustrated Guide to Python 3: A Complete Walkthrough of Beginning Python with Unique Illustrations Showing how Python Really Works. Now covering Python 3.6
