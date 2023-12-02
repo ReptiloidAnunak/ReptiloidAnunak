@@ -39,6 +39,12 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"  />
+<div align="center">
+###
+
+###
 
 <h4 align="left">:book: Books I'm reading:</h4>
 
