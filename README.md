@@ -1,4 +1,3 @@
-<h2 align="center">Programming languages</h2>
 
 ###
 
@@ -8,7 +7,6 @@
 
 ###
 
-<h4 align="center">Frameworks and tools</h4>
 
 ###
 
