@@ -40,7 +40,7 @@
 
 ###
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 <div align="center">
 ###
 
